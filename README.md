@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Systems Engineer(In View) and Software developer using Flutter
+I am an Engineer(In View) and Mobile Software developer using Flutter
 
 [Portfolio](https://www.oglabs.me)
 <!--
