@@ -2,6 +2,10 @@
 I am an Engineer(In View) and Mobile Software developer using Flutter
 
 [Portfolio](https://www.oglabs.me)
+
+
+[![Olamide's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordlamee&count_private=true&show_icons=true&theme=dark)](https://github.com/lordlamee/github-readme-stats)
+
 <!--
 **lordlamee/lordlamee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
